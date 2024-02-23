@@ -3136,9 +3136,10 @@ input, select, textarea {
 
 			}
 
-		.wrapper.style4 {
-			background-color: transparent;
-		}
+.wrapper.style4 {
+	background-color: #090909;
+
+}
 
 		.wrapper.style5 {
 			background-color: #ffffff;
@@ -3783,7 +3784,7 @@ input, select, textarea {
 
 			#cta .inner {
 				display: block;
-				text-align: center;
+				text-align: left;
 			}
 
 				#cta .inner header {
@@ -3974,7 +3975,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: #1d242a;
 	}
 
 	body.is-mobile.landing #page-wrapper {
